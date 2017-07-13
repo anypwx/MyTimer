@@ -48,3 +48,8 @@ rcv_list.addOnScrollListener(new RecyclerView.OnScrollListener() {
     }
 ```
 
+
+
+
+#效果图
+
