@@ -51,5 +51,6 @@ rcv_list.addOnScrollListener(new RecyclerView.OnScrollListener() {
 
 
 
-#效果图
+# 效果图
+![](https://github.com/anypwx/MyTimer/blob/master/tttt.gif)
 
